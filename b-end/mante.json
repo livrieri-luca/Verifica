@@ -1,0 +1,75 @@
+{
+    "mante": [
+    {
+    "_id": "5dc7cb1033b8c69dafc2885f",
+    "estinzione": true,
+    "apertura_alare": "8,784.69",
+    "immagine": "https://picsum.photos/200",
+    "eta": 37,
+    "colore": "green",
+    "nome_specie": "Joan",
+    "nome_razza": "Mcneil"
+    },
+    
+    {
+    "_id": "5dc7cb108fcc9fd9a68cae57",
+    "estinzione": false,
+    "apertura_alare": "4,900.99",
+    "immagine": "https://picsum.photos/200",
+    "eta": 31,
+    "colore": "brown",
+    "nome_specie": "Effie",
+    "nome_razza": "Hodge"
+    },
+    {
+    "_id": "5dc7cb1072ea256ccf28c0a1",
+    "estinzione": false,
+    "apertura_alare": "8,061.29",
+    "immagine": "https://picsum.photos/200",
+    "eta": 37,
+    "colore": "green",
+    "nome_specie": "Baird",
+    "nome_razza": "Bray"
+    },
+    {
+    "_id": "5dc7cb108a8ce8b5d5e0741e",
+    "estinzione": true,
+    "apertura_alare": "391.21",
+    "immagine": "https://picsum.photos/200",
+    "eta": 39,
+    "colore": "blue",
+    "nome_specie": "Marks",
+    "nome_razza": "Stone"
+    },
+    {
+    "_id": "5dc7cb10afba70f783c81642",
+    "estinzione": false,
+    "apertura_alare": "5,756.64",
+    "immagine": "https://picsum.photos/200",
+    "eta": 30,
+    "colore": "green",
+    "nome_specie": "Snyder",
+    "nome_razza": "Stanton"
+    },
+    {
+    "_id": "5dc7cb100874f21e5a4e1b45",
+    "estinzione": false,
+    "apertura_alare": "6,651.78",
+    "immagine": "https://picsum.photos/200",
+    "eta": 29,
+    "colore": "brown",
+    "nome_specie": "Burton",
+    "nome_razza": "Velez"
+    },
+    {
+    "_id": "5dc7cb10bd3a769363f5b96a",
+    "estinzione": true,
+    "apertura_alare": "6,241.23",
+    "immagine": "https://picsum.photos/200",
+    "eta": 40,
+    "colore": "green",
+    "nome_specie": "Gilmore",
+    "nome_razza": "Turner"
+    }
+    ]
+    }

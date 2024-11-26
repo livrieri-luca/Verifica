@@ -1,0 +1,15 @@
+<h1>Titolo Mante</h1>
+<div class="mante-container">
+  <h2>Lista delle Mante</h2>
+  <div *ngFor="let mante of mante" class="mante-card">
+    <img [src]="mante.immagine" alt="{{ mante.nome_specie }}" class="mante-image">
+    <div class="mante-details">
+      <h3>{{ mante.nome_specie }} {{ mante.nome_razza }}</h3>
+      <p><strong>Estinzione:</strong> {{ mante.in_estinzione ? 'Sì' : 'No' }}</p>
+      <p><strong>Età:</strong> {{ mante.eta }} anni</p>
+      <p><strong>Colore:</strong> {{ mante.colore }}</p>
+      <p><strong>Apertura alare:</strong> {{ mante.apertura_alare }} cm</p>
+      <br>
+    </div>
+  </div>
+</div>
